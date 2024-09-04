@@ -1,4 +1,4 @@
 # Hypixel-helper-mod
-basically a legal macro for slayers quests.
+basically a illegal macro for slayers quests.
 or something
 Anti-macro and fully automatic.
