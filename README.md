@@ -1,4 +1,3 @@
-# Hypixel-helper-mod
-basically a illegal macro for slayers quests.
-or something
-Anti-macro and fully automatic.
+# EarthMC-Griefer-check-mod
+
+Checks who deleted ur base/items like chests you can select them.
