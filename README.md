@@ -1,4 +1,4 @@
-# EarthMC-Griefer-check-mod
+# Online-Server-Griefer-check-mod
 
 Checks who deleted ur base/items like chests you can select them.
 lists possible people who griefed your items with my **PRIVATE** API. Which checks for people who break blocks in a chosen coordinates. It can check stuff from the past but not as accurately.
